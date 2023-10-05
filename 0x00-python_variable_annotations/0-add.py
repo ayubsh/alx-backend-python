@@ -3,4 +3,6 @@
 
 
 def add(a: float, b: float) -> float:
-    return a+b
+    """ Add teo numbers
+    """
+    return a + b
